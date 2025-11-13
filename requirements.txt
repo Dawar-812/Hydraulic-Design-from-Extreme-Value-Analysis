@@ -1,4 +1,5 @@
 pymc
+pytensor
 numpy
 pandas
 matplotlib
