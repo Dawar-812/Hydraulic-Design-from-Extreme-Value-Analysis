@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project explores how probabilistic rainfall modeling can support practical hydraulic design. Using the Generalized Extreme Value (GEV) distribution and Bayesian inference, I estimated rainfall return levels for different design periods (such as 10-, 50-, and 100-year events).  The goal is to show how uncertainty in extreme rainfall can be quantified and integrated into the design of **stormwater drainage systems** and other hydraulic structures.  This approach provides a more resilient and data-driven alternative to traditional deterministic design methods.
+This project explores how probabilistic rainfall modeling can support practical hydraulic design. Using the Generalized Extreme Value (GEV) distribution and Bayesian inference, I estimated rainfall return levels for different design periods (such as 10-, 50-, and 100-year events).  The goal is to show how uncertainty in extreme rainfall can be quantified and integrated into the design of drainage systems and other hydraulic structures.  This approach provides a more resilient and data-driven alternative to traditional deterministic design methods.
 
 
 
